@@ -26,3 +26,4 @@ DISK SPACE ALERT FOR $disk on $hostname!
 else
 	exit 0
 fi
+
